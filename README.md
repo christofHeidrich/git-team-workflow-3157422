@@ -6,6 +6,8 @@ Dies ist das Repository für den **LinkedIn Learning** Kurs _Git: Workflows im T
 
 Nach einer Einführung in die Funktionsweise das weltweit populärsten Versionskontrollsystem Git stellt der erfahrene DevOps-Engineer und Solutions Architect Sujeevan Vijayakumaran bewährte Workflows vor, die vor allem die Arbeit im Team erleichtern sollen. Die praxisnahen Beispiele sind unabhängig vom gewählten Git-Server (GitHub, GitLab, Bitbucket und andere) und betrachten viel mehr die konzeptionellen Arbeitsschritte. Sie lernen zum Beispiel nicht nur, wie ein Merge oder Rebase durchgeführt wird, sondern auch, in welchen Konstellationen welches Verfahren das geeignete ist.
 
+Testausgabe. Und noch eine.
+
 ## Anleitung
 
 Dieses Repository hat Übungsdateien zu einigen Filmen. Der Name der Datei korrespondiert mit dem Filmtitel.
